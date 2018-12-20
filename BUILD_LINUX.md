@@ -45,6 +45,8 @@ Install Python 3:
 sudo apt-get install python3.6
 ```
 
+Install NodeJS from https://nodejs.org/en/
+
 
 ### Get code and checkout the tag you need
 
